@@ -1,0 +1,5 @@
+Segment,Customers,Avg_Recency_Days,Avg_Frequency,Avg_LTV,Avg_Order_Value,Return_Rate,Churn_Rate_Pct,Revenue_Share_Pct
+Champions,9823,86.6,14.46,41229.75,2871.12,0.41,20.0,29.7
+Loyal Customers,20014,98.32,10.65,29011.35,2750.99,0.41,20.0,42.6
+At-Risk,6140,414.35,7.3,19749.04,2712.77,0.4,20.0,8.9
+Hibernating,14021,105.45,7.12,18243.84,2590.85,0.4,20.0,18.8
